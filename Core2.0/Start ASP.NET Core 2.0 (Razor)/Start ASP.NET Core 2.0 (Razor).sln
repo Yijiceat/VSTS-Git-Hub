@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start ASP.NET Core 2.0 (Razor)", "Start ASP.NET Core 2.0 (Razor)\Start ASP.NET Core 2.0 (Razor).csproj", "{DB38F101-A197-4781-A0C2-00C41E1C94DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB38F101-A197-4781-A0C2-00C41E1C94DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB38F101-A197-4781-A0C2-00C41E1C94DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB38F101-A197-4781-A0C2-00C41E1C94DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB38F101-A197-4781-A0C2-00C41E1C94DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E511674-7C1A-4D1A-92B4-853DE55B0BD3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://yijiecat.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Start\u0020ASP.NET\u0020Core\u00202.0\u0020(Razor)\\Start\u0020ASP.NET\u0020Core\u00202.0\u0020(Razor).csproj
+		SccProjectName1 = Start\u0020ASP.NET\u0020Core\u00202.0\u0020(Razor)
+		SccLocalPath1 = Start\u0020ASP.NET\u0020Core\u00202.0\u0020(Razor)
+	EndGlobalSection
+EndGlobal
